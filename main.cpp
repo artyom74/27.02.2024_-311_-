@@ -25,4 +25,4 @@ int main() {
 	
 	cout << "Площадь вашего прямоугольника равна: " << area(length, weight);
 	return 0;
-}
+} 
